@@ -17,7 +17,12 @@ p {
 	padding: 10px; <!-- spacing -->
 }
 
-.secondary {  
+.secondary {  <!-- . means you are looking for a class -->
 	background: none;
+	color: #555;
+}
+
+#special {
+	background: blue;
 	color: #555;
 }
