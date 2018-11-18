@@ -25,12 +25,11 @@ nav ul li a {
 	color: white;
 }
 
-
-h1, h2 {
+header h1 {
 	margin: 0;
-	color: #555;
 }
 
+<!--
 p {
 	background: #666;
 	color: white;
@@ -46,3 +45,4 @@ p {
 	background: blue;
 	color: #555;
 }
+-->
