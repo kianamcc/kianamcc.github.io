@@ -4,8 +4,13 @@ header {
 }
 
 body {
+	margin: 0;
 	background:#999;
 	font-family: arial;
+}
+
+nav ul {
+	margin: 0;
 }
 
 h1, h2 {
