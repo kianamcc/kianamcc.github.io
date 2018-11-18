@@ -21,9 +21,9 @@ nav ul {
 nav ul li {
 	background: black;
 	color: white;
-	padding: 5px 10px; <!-- top, right, bott, left -->
-	display: inline-block; <!-- page links are horizontally laid out -->
-	list-style-type: none; <!-- get rid of bulletpoints -->
+	padding: 5px 10px; /* top, right, bott, left */
+	display: inline-block; /* page links are horizontally laid out */
+	list-style-type: none; /*-- get rid of bulletpoints */
 }
 
 nav ul li a {
