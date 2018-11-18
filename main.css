@@ -13,17 +13,21 @@ nav ul {
 }
 
 nav ul li {
-	display: inline-block;
+	background: black;
+	color: white;
+	padding: 5px 10px; <!-- top, right, bott, left -->
+	display: inline-block; <!-- page links are horizontally laid out -->
 	list-style-type: none; <!-- get rid of bulletpoints -->
 }
+
+nav ul li a {
+	color: white;
+}
+
 
 h1, h2 {
 	margin: 0;
 	color: #555;
-}
-
-a {
-	color: blue;
 }
 
 p {
