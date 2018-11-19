@@ -5,6 +5,10 @@ body {
 
 header {
 	background: #999;
+	background-image: url(Blade Wolf.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
 	color: white;
 	padding: 15px 15px 0 15px;
 }
@@ -30,13 +34,31 @@ nav ul li a {
 	color: white;
 }
 
+/*
+.row {
+	
+}
+
+.col {
+	 background: #333; percentage will allow your page to look good on all devices
+	 margin: 1%;
+	 float: left; everything that says col floats left
+	 width: 31%;
+}
+
+footer {
+	clear: both; clear the left float
+}
+*/
+
 p {
 	background: #666;
 	color: white;
 	padding: 10px; /* spacing */
 }
 
-.secondary {  /* . means you are looking for a class */
+/*
+.secondary {   . means you are looking for a class
 	background: none;
 	color: #555;
 }
@@ -45,3 +67,4 @@ p {
 	background: blue;
 	color: #555;
 }
+*/
