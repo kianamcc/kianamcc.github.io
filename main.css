@@ -15,12 +15,11 @@ header {
 
 
 header h1 {
+	text-align: center;
 	margin: 0;
 }
 
 nav ul {
-	display: inline-block;
-	list-style-type: none;
 	margin: 0;
 }
 
