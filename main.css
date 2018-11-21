@@ -19,6 +19,8 @@ header h1 {
 }
 
 nav ul {
+	display: inline-block;
+	list-style-type: none;
 	margin: 0;
 }
 
