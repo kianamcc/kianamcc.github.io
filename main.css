@@ -6,7 +6,7 @@ body {
 header {
 	background: #999;
 	background-image: url(test.jpg);
-	height: 100vh;
+	height: 200vh;
 	background-size: cover;
 	background-position: center;
 	color: white;
