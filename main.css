@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	background: white;
+	background: #999;
 	background-image: url(test.jpg);
 	height: 100vh; /* bkg img size */
 	background-size: cover;
