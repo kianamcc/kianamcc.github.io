@@ -32,10 +32,10 @@ nav ul {
 nav ul li {
 	background: black;
 	color: white;
-	padding: 5px 10px; /* top, right, bott, left */
+	padding: 20px 10px; /* top, right, bott, left */
 	display: inline-block; /* page links are horizontally laid out */
 	list-style-type: none; /*-- get rid of bulletpoints */
-	margin-right: 15px;
+	margin-right: 15px; /* space between nav boxes */
 }
 
 nav ul li a {
