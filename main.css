@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-  font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Quattrocento Sans', sans-serif;
 }
 
 header {
@@ -36,6 +36,7 @@ nav ul li {
 	display: inline-block; /* page links are horizontally laid out */
 	list-style-type: none; /*-- get rid of bulletpoints */
 	margin-right: 15px; /* space between nav boxes */
+	font-weight: normal;
 }
 
 nav ul li a {
