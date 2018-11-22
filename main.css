@@ -9,7 +9,7 @@ header {
 	height: 100vh; /* bkg img size */
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 0px 120px;
+	background-position: 0px 160px;
 	color: black;
 	padding: 25px 25px 0 15px;
 	text-align: center;
@@ -24,7 +24,7 @@ header h1 {
 
 nav ul {
 	list-style: none;
-	margin: 0;
+	margin-top: 0;
 	padding: 0;
 	text-align: center;
 }
