@@ -1,18 +1,14 @@
 body {
 	margin: 0;
 	font-family: arial;
-	background-image: url(test.jpg) no-repeat;
-	background-size: contain;
-	background-position: 0 20px;
-	height: 100vh; /* bkg img size */
 }
 
 header {
 	background: #999;
-	/*background-image: url(test.jpg);*/
-	/*height: 100vh; /* bkg img size */
-	/*background-size: cover;
-	background-position: center;*/
+	background-image: url(test.jpg);
+	height: 100vh; /* bkg img size */
+	background-size: cover;
+	background-position: center;
 	color: white;
 	padding: 25px 25px 0 15px;
 	text-align: center;
