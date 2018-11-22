@@ -8,6 +8,7 @@ header {
 	background-image: url(test.jpg);
 	height: 100vh; /* bkg img size */
 	background-size: cover;
+	background-repeat: no-repeat;
 	background-position: 0px 50px;
 	color: white;
 	padding: 25px 25px 0 15px;
