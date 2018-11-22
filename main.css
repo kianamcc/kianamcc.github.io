@@ -19,7 +19,7 @@ header {
 header h1 {
 	display: inline-block;
 	text-align: center;
-	margin: 0px
+	margin-bottom: 10px
 }
 
 nav ul {
